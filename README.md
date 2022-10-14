@@ -10,9 +10,13 @@ Provide a short description explaining the what, why, and how of your project. U
 This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
 
 - What was your motivation?
+- *Wanting to help myself and other students be better prepared for the boot camp.*
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- *I wanted to get hands on experience with HTML, CSS, Git and Javascript. And it provides me with a good resource.*
 - What problem does it solve?
+- *It helpls new students with some guidance in studying for the course.*
 - What did you learn?
+- *I received more infomation on coding these languages and gained much more knowledge of Git and GitHub.*
 
 ## Table of Contents (Optional)
 
